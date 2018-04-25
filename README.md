@@ -1,2 +1,2 @@
-# hello-word
-The first try
+hi guys,
+Just trying to do the first repository
